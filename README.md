@@ -1,6 +1,6 @@
 # Quasar App (blogging-site)
 
-A start up porject
+A practice blog site using VueJS and Quasar Framework
 
 ## Install the dependencies
 ```bash
